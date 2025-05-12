@@ -27,4 +27,4 @@
 - [X] `postgres --product_version` (верный ответ)  
 - [ ] psql --version (несовсем верный ответ)  
 
-### Укажите команду, для получения информации о версии Platform V Pangolin?  
+### Укажите команду, запуска Platform V «Pangolin DB»?
